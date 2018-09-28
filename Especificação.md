@@ -11,16 +11,16 @@
 
 <h3>Descrição Geral:</h3>
 <ul>	
-	<h4>Mini-mundo:</h4>
+<h4>Mini-mundo:</h4>
 	<li>
 		O aplicativo "Jumpar" possui funcionalides como cadastrar, editar, remover, consultar saltos.
 	</li>
-	<h4>Funcionalidades:</h4>
+<h4>Funcionalidades:</h4>
 	<li>
 		Funcionalidades: O aplicativo "Jumpar" apresentará funcionalidades como:
 	Cadastrar salto, este que terá atributos como: Número do saltos, Data, Local, Avião, equipamento, altura, retardo, acumulado, 		trabalho, realizado, assinatura, licença.Editar, remover e consultar saltos.
 	</li>
-	<h4>Características dos usuários:</h4>
+<h4>Características dos usuários:</h4>
 	<li>
 		Usuário aluno:	Este usuário poderá realizar todas operações prevista no aplicativo, exceto a parte assinatura do salto.
 		Usuário instrutor: Este usuário poderá realizar todas operações prevista no aplicativo.
